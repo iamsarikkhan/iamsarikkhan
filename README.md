@@ -4,7 +4,7 @@
   <img src="https://i.gifer.com/6tXM.gif" alt="My GIF" width="300"/>
 </p>
 
-🎓 TYBSc IT Graduate  
+🎓 BSc IT Graduate  
 💻 Aspiring .NET Developer with a strong foundation in full-stack development  
 🌱 Currently learning and building projects with **ASP.NET Core**, **Web APIs**, and **Entity Framework**  
 📁 Passionate about creating scalable backend systems and dynamic web applications  
