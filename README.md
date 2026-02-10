@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Sarik Khan!
 
-<p align="right">
-  <img src="https://i.gifer.com/6tXM.gif" alt="My GIF" width="300"/>
-</p>
-
 🎓 BSc IT Graduate  
 💻 Aspiring .NET Developer with a strong foundation in full-stack development  
 🌱 Currently learning and building projects with **ASP.NET Core**, **Web APIs**, and **Entity Framework**  
